@@ -1,6 +1,6 @@
 title: Mộc cảm sinh
 description: Triết lý sống sinh ra từ chạm.
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: mmistakes/minimal-mistakes
 
 # (Tuỳ chọn) nếu muốn dùng Markdown trong index.md
 markdown: kramdown

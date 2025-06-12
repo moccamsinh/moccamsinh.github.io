@@ -1,0 +1,6 @@
+title: Mộc cảm sinh
+description: Triết lý sống sinh ra từ cảm.
+theme: jekyll-theme-cayman
+
+# (Tuỳ chọn) nếu muốn dùng Markdown trong index.md
+markdown: kramdown

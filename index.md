@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trang chủ
+title: Mộc Cảm Sinh
 ---
 
 Blog này sống cùng cảm thức 🌿

@@ -12,6 +12,8 @@ Là một thân sống sinh ra từ ba nhánh cảm thức. Không khuôn phép,
 Mộc cảm sinh không phải để thuyết giảng.
 Nó để sống cùng. Để lớn lên cùng. Như một nhành cây – không gấp, không vội, nhưng chắc chắn sẽ vươn.
 
+![Mokana](/assets/images/mokana.png)
+
 <ul>
   {% for post in site.posts reversed %}
     <li>

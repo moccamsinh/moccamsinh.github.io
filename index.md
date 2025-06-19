@@ -3,6 +3,8 @@ layout: default
 title: Mộc Cảm Sinh
 ---
 
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
 Là một thân sống sinh ra từ ba nhánh cảm thức. Không khuôn phép, không cao siêu, chỉ cần một người đủ lặng – đã có thể thấy mình trong đó.
 
 - Là *mạch sống* – nơi dòng lực âm thầm chảy, khiến ta còn muốn sống, muốn đi, muốn trở thành điều gì đó có nghĩa.

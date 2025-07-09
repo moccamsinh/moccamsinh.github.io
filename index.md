@@ -12,7 +12,8 @@ Là một thân sống sinh ra từ ba nhánh cảm thức. Không khuôn phép,
 - Là *ý chạm* – khoảnh khắc một hình ảnh, một câu nói, hay một làn gió khẽ lướt – cũng có thể làm tim rung, và đời đổi.
 
 Mộc cảm sinh không phải để thuyết giảng.
-Nó để sống cùng. Để lớn lên cùng. Như một nhành cây – không gấp, không vội, nhưng chắc chắn sẽ vươn.
+Nó để sống cùng. Để lớn lên cùng. 
+Như một nhành cây – không gấp, không vội, nhưng chắc chắn sẽ vươn.
 
 <ul>
   {% for post in site.posts reversed %}

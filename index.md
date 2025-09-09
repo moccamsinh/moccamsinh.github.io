@@ -23,4 +23,4 @@ Như một nhành cây – không gấp, không vội, nhưng chắc chắn sẽ
   {% endfor %}
 </ul>
 
-— {{site.author.name}}
+— muziii

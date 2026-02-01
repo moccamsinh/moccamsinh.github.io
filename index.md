@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mộc Cảm Sinh
+title: Mộc cảm sinh
 ---
 
 <link rel="icon" href="/favicon.ico" type="image/x-icon">

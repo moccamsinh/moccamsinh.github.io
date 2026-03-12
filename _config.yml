@@ -3,5 +3,9 @@ description: sống thật với mình, nhẹ bước giữa đời, vững tin 
 author: muziii
 theme: jekyll-theme-cayman
 
-# (Tuỳ chọn) nếu muốn dùng Markdown trong index.md
 markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-seo-tag

@@ -20,4 +20,4 @@ Mộc cảm sinh là nơi ba điều ấy gặp nhau.
   {% endfor %}
 </ul>
 
-— [muziii](mailto:muz@moca.si)
+— [muziii](mailto:m@moca.si)

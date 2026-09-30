@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mạch sống i
+title: mạch sống của tôi
 date: 2026-09-30 11:00:00 +0700
 categories: [blog]
 ---

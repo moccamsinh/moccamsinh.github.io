@@ -25,11 +25,11 @@ Rễ cọc đâm vào đất cứng, tìm tới mạch nước mà rễ khác ch
 
 Ngọn rễ này mọc từ cành, buông giữa trời rồi mới tìm xuống đất — như rễ cây đa.
 
-Rễ cọc càng đâm sâu, càng uống nhiều sức. Một ngày gỡ xong mấy nút thắt, đầu óc cạn như giếng mùa khô. Đó là mặt kia của điểm mạnh.
+Rễ cọc càng đâm sâu, càng uống nhiều sức. Sức cạn lâu ngày thì người mỏi, lòng khô, và chính điểm mạnh cũng mờ dần. Đó là mặt kia của điểm mạnh.
 
-Nên tôi để rễ rong mọc ra. Ban đầu nó chỉ rong chơi — lơ lửng, đong đưa, chạm vào gió. Tôi sống chậm lại. Ngồi thiền. Đi vào rừng, ra biển. Nghe một bản nhạc, đứng trước một bức tranh. Tới một vùng đất lạ, gặp một người mới quen. Ngồi yên đó, mà đầy lại.
+Nên tôi để rễ rong mọc ra. Ban đầu nó chỉ rong chơi — lơ lửng, đong đưa, chạm vào gió. Tôi sống chậm lại. Ngồi thiền. Đi vào rừng, ra biển. Nghe một bản nhạc, đứng trước một bức tranh. Ngồi với những người thương, kể nhau nghe vài chuyện vu vơ. Tới một vùng đất lạ, gặp một người mới quen. Ngồi yên đó, mà đầy lại.
 
-Rồi một ngày, sợi rễ rong chạm đất và hoá thành trụ. Cái nhẹ tưởng chỉ để chơi, hoá ra đỡ lấy cả cây. Có những trụ ấy, rễ cọc cứ yên tâm đâm sâu.
+Rồi một ngày, sợi rễ rong chạm đất và hoá thành trụ. Cây đa có những trụ ấy thì cành vươn xa mà vẫn vững, qua bão mà vẫn đứng. Rễ rong giữ cho cả cây cân bằng — để sống được lâu, sống được bền, để gốc còn nguyên qua nhiều mùa.
 
 ### Rễ ngang — mở tâm thức.
 
@@ -37,7 +37,7 @@ Ngọn rễ này lan sát mặt đất — trăm ngọn nhỏ đan thành lướ
 
 Gốc đã vững, sức đã đầy, câu hỏi tiếp theo là: đâm sâu vào đâu? Giải giỏi một bài chưa cần giải, cũng như đào giếng ở chỗ đất không có mạch. Sức mạnh thật nằm ở chỗ chọn đúng bài, quyết đúng việc.
 
-Rễ ngang cho tôi chỗ đứng để chọn. Tôi mở tâm thức, đọc những lối nghĩ xa lạ, nhìn đời qua mắt nhiều người, nhiều thời. Rồi tôi đan chúng lại thành một hệ của riêng mình. Mộc cảm sinh chính là một sợi của lưới rễ này.
+Rễ ngang cho tôi chỗ đứng để chọn. Tôi đọc triết học, cả phương Đông lẫn phương Tây. Tôi tìm hiểu những lối sống người ta đã chọn qua nhiều thời: người sống chậm giữa núi, người sống hết mình giữa phố. Mỗi lối nghĩ là một ngọn rễ nhỏ, dò thêm một vùng đất. Rồi tôi đan chúng lại thành một hệ của riêng mình. Mộc cảm sinh là lưới rễ ấy, và nó vẫn đang lan.
 
 Lưới lan tới đâu, tôi thấy đất tới đó. Thấy đất rồi, rễ cọc biết đâm xuống chỗ nào có nước.
 
@@ -45,7 +45,7 @@ Lưới lan tới đâu, tôi thấy đất tới đó. Thấy đất rồi, r�
 
 Nhìn thì rễ sâu là gốc, hai ngọn kia mọc ra để đỡ. Sống lâu mới thấy, ba ngọn đỡ lấy nhau.
 
-Rễ rong đưa sức về cho rễ sâu. Rễ ngang chỉ cho rễ sâu chỗ đất có nước.
+Rễ rong giữ cho cây cân bằng, để rễ sâu còn nguyên sức qua nhiều mùa. Rễ ngang chỉ cho rễ sâu chỗ đất có nước.
 
 Rễ sâu cũng nuôi lại hai ngọn kia. Mỗi bài khó gỡ xong để lại một điều hiểu thêm, và rễ ngang lan ra từ chính những điều hiểu ấy. Một ngày làm việc trọn vẹn, buổi chiều ngồi dưới tán cây mới thấy hết cái mát.
 

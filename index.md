@@ -10,14 +10,8 @@ một *lối* để đi, một *mạch* để sống, và những *chạm* để
 
 Mộc cảm sinh là nơi ba điều ấy gặp nhau.
 
-<ul>
-  {% for post in site.posts reversed %}
-    {% unless post.title contains 'ý chạm i' or post.title contains 'ý chạm ii' or post.title contains 'ý chạm iii' or post.title contains 'ý chạm x' or post.title contains 'mạch sống của tôi' %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> <small>({{ post.date | date: "%d-%m-%Y" }})</small>
-    </li>
-    {% endunless %}
-  {% endfor %}
-</ul>
+- [lối nhẹ](/blog/2025/06/12/loi-nhe.html)
+- [mạch sống](/blog/2025/06/12/mach-song.html)
+- [ý chạm](/blog/2025/06/12/y-cham.html)
 
 — [muziii](mailto:m@moca.si)

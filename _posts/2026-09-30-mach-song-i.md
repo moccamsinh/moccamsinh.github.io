@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mạch sống của tôi
+title: mạch sống i
 date: 2026-09-30 11:00:00 +0700
 categories: [blog]
 ---
@@ -11,7 +11,7 @@ Cái gì cũng có hai mặt. Mạnh ở chỗ này thì chỗ khác phải gán
 
 Ba ngọn rễ ấy là mạch sống của tôi.
 
-### Rễ sâu — giải bài khó.
+### Rễ sâu — tìm giải pháp.
 
 Ngọn rễ này đâm thẳng xuống, vào chỗ đất cứng nhất.
 
@@ -21,9 +21,7 @@ Soi lâu mới thấy, đây là chỗ tôi có khiếu và có lửa cùng lúc
 
 Rễ cọc đâm vào đất cứng, tìm tới mạch nước mà rễ khác chưa chạm được. Cây đứng được là nhờ nó.
 
-Ở trong nó, tôi tỉnh, tôi ham, tôi chắc tay.
-
-### Rễ rong — hồi sức.
+### Rễ rong — nạp năng lượng.
 
 Ngọn rễ này mọc từ cành, buông giữa trời rồi mới tìm xuống đất — như rễ cây đa.
 
@@ -32,8 +30,6 @@ Rễ cọc càng đâm sâu, càng uống nhiều sức. Một ngày gỡ xong m
 Nên tôi để rễ rong mọc ra. Ban đầu nó chỉ rong chơi — lơ lửng, đong đưa, chạm vào gió. Tôi sống chậm lại. Ngồi thiền. Đi vào rừng, ra biển. Nghe một bản nhạc, đứng trước một bức tranh. Tới một vùng đất lạ, gặp một người mới quen. Ngồi yên đó, mà đầy lại.
 
 Rồi một ngày, sợi rễ rong chạm đất và hoá thành trụ. Cái nhẹ tưởng chỉ để chơi, hoá ra đỡ lấy cả cây. Có những trụ ấy, rễ cọc cứ yên tâm đâm sâu.
-
-Ở trong nó, tôi nhẹ, tôi đầy, tôi thảnh thơi.
 
 ### Rễ ngang — mở tâm thức.
 
@@ -45,19 +41,17 @@ Rễ ngang cho tôi chỗ đứng để chọn. Tôi mở tâm thức, đọc nh
 
 Lưới lan tới đâu, tôi thấy đất tới đó. Thấy đất rồi, rễ cọc biết đâm xuống chỗ nào có nước.
 
-Ở trong nó, tôi rộng, tôi sáng, tôi vững.
+## Ba ngọn rễ, một cái cây.
 
-## Ba ngọn rễ, một vòng.
+Nhìn thì rễ sâu là gốc, hai ngọn kia mọc ra để đỡ. Sống lâu mới thấy, ba ngọn đỡ lấy nhau.
 
-Ba ngọn rễ lớn lên theo thứ tự. Rễ sâu có trước, từ thuở nhỏ. Rễ rong mọc ra khi gốc bắt đầu thấy mỏi. Rễ ngang lan rộng khi gốc đã đứng vững.
+Rễ rong đưa sức về cho rễ sâu. Rễ ngang chỉ cho rễ sâu chỗ đất có nước.
 
-Còn khi sống, chúng chạy thành vòng. Rễ ngang dò đất, chọn chỗ. Rễ sâu đâm xuống, gỡ nút. Rễ rong đưa sức về. Rồi lưới rễ lại lan thêm một vòng.
+Rễ sâu cũng nuôi lại hai ngọn kia. Mỗi bài khó gỡ xong để lại một điều hiểu thêm, và rễ ngang lan ra từ chính những điều hiểu ấy. Một ngày làm việc trọn vẹn, buổi chiều ngồi dưới tán cây mới thấy hết cái mát.
 
-Thiếu rễ rong, rễ sâu đâm mãi rồi cạn. Thiếu rễ ngang, rễ sâu đâm khoẻ mà dễ đâm nhầm chỗ.
+Hai ngọn rễ đỡ cũng nuôi nhau. Những lúc lặng nhất — ngồi thiền, đi giữa rừng — là lúc tâm thức mở rộng nhất. Tâm thức rộng rồi, nghe một bản nhạc, đứng trước một bức tranh, tôi thấy thêm nhiều lớp.
 
-Cách soi này bạn cũng thử được. Tìm một điểm mạnh nhất của mình, rồi hỏi nó hai câu: cần gì để đứng vững, và cần gì để đi xa. Hai câu trả lời ấy, có khi chính là hai ngọn rễ còn lại.
-
-Một gốc thật sâu, hai rễ đỡ quanh. Cây cứ thế lớn lên.
+Ba ngọn rễ, mỗi ngọn một ngả, cùng đỡ một cái cây. Cây cứ thế lớn lên.
 
 • • •
 

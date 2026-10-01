@@ -10,8 +10,8 @@ một *lối* để đi, một *mạch* để sống, và những *chạm* để
 
 Mộc cảm sinh là nơi ba điều ấy gặp nhau.
 
-- [lối nhẹ](/blog/2025/06/12/loi-nhe.html)
 - [mạch sống](/blog/2025/06/12/mach-song.html)
+- [lối nhẹ](/blog/2025/06/12/loi-nhe.html)
 - [ý chạm](/blog/2025/06/12/y-cham.html)
 
 — [muziii](mailto:m@moca.si)

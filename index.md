@@ -5,7 +5,7 @@ title: Mộc cảm sinh
 
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-Có ba điều âm thầm lớn lên trong đời sống của một người:
+Có ba điều âm thầm lớn lên trong đời sống của mỗi người:
 một *mạch* để sống, một *lối* để đi, và những *chạm* để nhớ rằng mình đang sống.
 
 Mộc cảm sinh là nơi ba điều ấy gặp nhau.

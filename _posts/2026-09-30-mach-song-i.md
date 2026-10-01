@@ -1,13 +1,13 @@
 ---
 layout: default
-title: mạch sống i
+title: mạch sống của tôi
 date: 2026-09-30 11:00:00 +0700
 categories: [blog]
 ---
 
 Ở bài [mạch sống](/blog/2025/06/12/mach-song.html), tôi viết: mạch lộ ra khi mình chịu nhìn mình đủ lâu. Tôi nhìn mình bằng một cách riêng: tìm điểm mạnh nhất, lấy đó làm gốc.
 
-Cái gì cũng có hai mặt. Mạnh ở chỗ này thì chỗ khác phải gánh. Nên quanh gốc ấy, tôi để hai ngọn rễ mọc thêm. Một ngọn đỡ lấy mặt kia của điểm mạnh, để gốc dùng được lâu và chắc. Một ngọn làm đòn bẩy, để gốc đã vững thì đi được xa hơn.
+Cây đứng nhờ gốc, còn đứng lâu và vươn xa là nhờ những rễ quanh gốc. Nên tôi để hai ngọn rễ mọc thêm. Một ngọn chăm lo yếu điểm, để điểm mạnh dùng được lâu và chắc. Một ngọn làm đòn bẩy, để gốc đã vững thì đi được xa hơn.
 
 Ba ngọn rễ ấy là mạch sống của tôi.
 
@@ -21,35 +21,29 @@ Soi lâu mới thấy, đây là chỗ tôi có khiếu và có lửa cùng lúc
 
 Rễ sâu đâm vào đất cứng, tìm tới mạch nước mà rễ khác chưa chạm được. Cây đứng được là nhờ nó.
 
-### Rễ rong — nạp năng lượng.
+### Rễ ngang — nạp năng lượng.
+
+Ngọn rễ này lan sát mặt đất — trăm ngọn nhỏ đan thành lưới, uống từng giọt mưa.
+
+Rễ sâu càng đâm xuống, càng hao nhiều sức. Sức cạn lâu ngày thì người mỏi, lòng khô, và chính điểm mạnh cũng mờ dần. Đó là yếu điểm đi kèm điểm mạnh.
+
+Nên tôi để rễ ngang lan ra, mỗi ngọn nhỏ chạm một chỗ đất. Tôi sống chậm lại. Ngồi thiền. Đi vào rừng, ra biển. Nghe một bản nhạc, đứng trước một bức tranh. Ngồi với những người thương, kể nhau nghe vài chuyện vu vơ. Tới một vùng đất lạ, gặp một người mới quen. Lặng yên đó, mà đầy lại.
+
+Lưới rễ lan tới đâu, đất giữ cây tới đó. Gió lớn, cây vẫn đứng. Mùa khô, lưới rễ vẫn tìm ra nước. Rễ ngang giữ cho cả cây cân bằng — để sống được lâu, sống được bền, để gốc còn nguyên qua nhiều mùa.
+
+### Rễ rong — mở tâm thức.
 
 Ngọn rễ này mọc từ cành, buông giữa trời rồi mới tìm xuống đất — như rễ cây đa.
 
-Rễ sâu càng đâm xuống, càng uống nhiều sức. Sức cạn lâu ngày thì người mỏi, lòng khô, và chính điểm mạnh cũng mờ dần. Đó là mặt kia của điểm mạnh.
-
-Nên tôi để rễ rong mọc ra. Ban đầu nó chỉ rong chơi — lơ lửng, đong đưa, chạm vào gió. Tôi sống chậm lại. Ngồi thiền. Đi vào rừng, ra biển. Nghe một bản nhạc, đứng trước một bức tranh. Ngồi với những người thương, kể nhau nghe vài chuyện vu vơ. Tới một vùng đất lạ, gặp một người mới quen. Ngồi yên đó, mà đầy lại.
-
-Rồi một ngày, sợi rễ rong chạm đất và hoá thành trụ. Cây đa có những trụ ấy thì cành vươn xa mà vẫn vững, qua bão mà vẫn đứng. Rễ rong giữ cho cả cây cân bằng — để sống được lâu, sống được bền, để gốc còn nguyên qua nhiều mùa.
-
-### Rễ ngang — mở tâm thức.
-
-Ngọn rễ này lan sát mặt đất — trăm ngọn nhỏ đan thành lưới, dò ra thật xa.
-
 Gốc đã vững, cây đã cân bằng, câu hỏi tiếp theo là: đâm sâu vào đâu? Giải giỏi một bài chưa cần giải, cũng như đào giếng lệch mạch nước. Sức mạnh thật nằm ở chỗ chọn đúng bài, quyết đúng việc.
 
-Rễ ngang cho tôi chỗ đứng để chọn. Tôi đọc triết học, cả phương Đông lẫn phương Tây. Tôi tìm hiểu những lối sống người ta đã chọn qua nhiều thời: người sống chậm giữa núi, người sống hết mình giữa phố. Mỗi lối nghĩ là một ngọn rễ nhỏ, dò thêm một vùng đất. Rồi tôi đan chúng lại thành một hệ của riêng mình. Mộc cảm sinh là lưới rễ ấy, và nó vẫn đang lan.
+Rễ rong sinh ra từ phần cao nhất của cây, nơi nhìn được xa nhất. Ban đầu nó rong chơi giữa trời, đong đưa giữa nhiều lối nghĩ. Tôi tìm hiểu những lối sống người ta đã chọn qua nhiều thời: người sống chậm giữa núi, người sống thong dong giữa sông nước, người sống vững giữa giông bão. Rồi tôi đan chúng lại thành một hệ của riêng mình. Mộc cảm sinh là ngọn rễ ấy, và nó vẫn đang buông xuống.
 
-Lưới lan tới đâu, tôi thấy đất tới đó. Thấy đất rồi, rễ sâu biết đâm xuống chỗ nào có nước.
+Từ trên cao nhìn xuống, tôi thấy đất rộng hơn. Thấy đất rồi, rễ sâu biết đâm xuống chỗ nào có nước. Rồi sẽ có ngày, rễ rong chạm đất và hoá thành trụ. Cái nhìn từ trên cao thành chỗ dựa dưới đất, và nhờ những trụ ấy, tán cây vươn được xa hơn.
 
 ## Ba ngọn rễ, một cái cây.
 
-Nhìn thì rễ sâu là gốc, hai ngọn kia mọc ra để đỡ. Sống lâu mới thấy, ba ngọn đỡ lấy nhau.
-
-Rễ rong giữ cho cây cân bằng, để rễ sâu còn nguyên sức qua nhiều mùa. Rễ ngang chỉ cho rễ sâu chỗ đất có nước.
-
-Rễ sâu cũng nuôi lại hai ngọn kia. Mỗi bài khó gỡ xong để lại một điều hiểu thêm, và rễ ngang lan ra từ chính những điều hiểu ấy. Một ngày làm việc trọn vẹn, buổi chiều ngồi dưới tán cây mới thấy hết cái mát.
-
-Hai ngọn rễ đỡ cũng nuôi nhau. Những lúc lặng nhất — ngồi thiền, đi giữa rừng — là lúc tâm thức mở rộng nhất. Tâm thức rộng rồi, nghe một bản nhạc, đứng trước một bức tranh, tôi thấy thêm nhiều lớp.
+Tìm giải pháp cho tôi kinh nghiệm, được rèn qua từng bài khó, lắng xuống qua năm tháng. Nạp năng lượng cho tôi trải nghiệm: những ngày sống chậm, những người thương, những vùng đất đã đi qua. Mở tâm thức cho tôi chiêm nghiệm: những điều lặng lẽ đọng lại, khi tôi lùi ra đủ xa để nhìn.
 
 Ba ngọn rễ, mỗi ngọn một ngả, cùng đỡ một cái cây. Cây cứ thế lớn lên.
 

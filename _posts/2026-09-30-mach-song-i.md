@@ -11,7 +11,7 @@ Cây đứng nhờ gốc, còn đứng lâu và vươn xa là nhờ những rễ
 
 Ba ngọn rễ ấy là mạch sống của tôi.
 
-### Rễ sâu — tìm giải pháp.
+### Rễ sâu — tìm giải pháp (Thuật)
 
 Ngọn rễ này đâm thẳng xuống, vào chỗ đất cứng nhất — như rễ cọc.
 
@@ -21,7 +21,7 @@ Soi lâu mới thấy, đây là chỗ tôi có khiếu và có lửa cùng lúc
 
 Rễ sâu đâm vào đất cứng, tìm tới mạch nước mà rễ khác chưa chạm được. Cây đứng được là nhờ nó.
 
-### Rễ ngang — nạp năng lượng.
+### Rễ ngang — nạp năng lượng (Dưỡng)
 
 Ngọn rễ này lan sát mặt đất — trăm ngọn nhỏ đan thành lưới, uống từng giọt mưa.
 
@@ -31,7 +31,7 @@ Nên tôi để rễ ngang lan ra, mỗi ngọn nhỏ chạm một chỗ đất.
 
 Lưới rễ lan tới đâu, đất giữ cây tới đó. Gió lớn, cây vẫn đứng. Mùa khô, lưới rễ vẫn tìm ra nước. Rễ ngang giữ cho cả cây cân bằng — để sống được lâu, sống được bền, để gốc còn nguyên qua nhiều mùa.
 
-### Rễ rong — mở tâm thức.
+### Rễ rong — mở tâm thức (Đạo)
 
 Ngọn rễ này mọc từ cành, buông giữa trời rồi mới tìm xuống đất — như rễ cây đa.
 

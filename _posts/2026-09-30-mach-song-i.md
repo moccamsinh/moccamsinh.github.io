@@ -11,7 +11,7 @@ Cây đứng nhờ gốc, còn đứng lâu và vươn xa là nhờ những rễ
 
 Ba ngọn rễ ấy là mạch sống của tôi.
 
-### Rễ sâu — tìm giải pháp (Thuật)
+### Rễ sâu — tìm giải pháp (Giải)
 
 Ngọn rễ này đâm thẳng xuống, vào chỗ đất cứng nhất — như rễ cọc.
 
